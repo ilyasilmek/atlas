@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.promptatlas.core.BundledCatalogTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-09-28T15:20:20.579Z" hostname="442f1a58fcd1" time="1.398">
-  <properties/>
-  <testcase name="decodesAndPaginatesTheShippedCatalog" classname="com.promptatlas.core.BundledCatalogTest" time="1.398"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -1,10 +1,10 @@
 plugins { id("com.android.application"); id("org.jetbrains.kotlin.android"); id("org.jetbrains.kotlin.plugin.compose") }
 android {
- namespace = "com.promptatlas.app"
+ namespace = "stitchilyas"
  compileSdk = 36
  buildToolsVersion = "36.0.0"
  defaultConfig {
-  applicationId = "com.promptatlas.app"
+  applicationId = "stitchilyas"
   minSdk = 26
   targetSdk = 36
   versionCode = 2

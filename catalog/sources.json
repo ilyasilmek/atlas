@@ -1,5 +1,0 @@
-[
- {"id":"open-prompts","name":"Open Prompts","adapter":"open_prompts","repository":"rudy2steiner/open-prompts","revision":"91c6b951e08d3033abe06f6b130e914e2178d0b9","license":"Apache-2.0 (depo)","limit":100},
- {"id":"chaos-gallery","name":"GPT Image 2 Hub","adapter":"chaos_gallery","repository":"ChaosRealmsAI/gpt-image-2-gallery","revision":"5296db8c996e38776c83a0bc8c64f848dcd512b3","license":"MIT (depo)","limit":1100},
- {"id":"gpt4o-gallery","name":"Awesome GPT-4o","adapter":"jamez_gallery","repository":"jamez-bondos/awesome-gpt4o-images","revision":"3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596","license":"CC-BY-4.0","limit":30}
-]
