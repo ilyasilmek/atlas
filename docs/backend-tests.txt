@@ -1,0 +1,12 @@
+✔ only approved and public records are returned, even without owner (0.855978ms)
+✔ image URLs are normalized and unsafe schemes or credentials removed (0.846317ms)
+✔ cursors, filters and limits are validated (0.835079ms)
+✔ search wildcards remain literal (0.19313ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 106.614281

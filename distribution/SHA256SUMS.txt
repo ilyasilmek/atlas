@@ -1,0 +1,2 @@
+20bf4da3a315a1ad97d64efd4b8bf9914d6b61507dc8b80498fa3a2281ab29ce  PromptAtlas-0.2.0-debug.apk
+0c586e0af74fb7b03c0b6e1176d6c6c394c0963c0b06529c9f60fc6bce7a3734  PromptAtlas-0.2.0-unsigned.aab

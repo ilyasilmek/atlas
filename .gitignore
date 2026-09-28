@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+**/__pycache__/
+*.jks
+*.keystore
+keystore.properties
+backend/open-prompts/
+.env*
+
+.catalog-cache/

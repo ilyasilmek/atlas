@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.promptatlas.core.CatalogTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-28T15:20:21.980Z" hostname="442f1a58fcd1" time="0.023">
+  <properties/>
+  <testcase name="validatesOrigins" classname="com.promptatlas.core.CatalogTest" time="0.002"/>
+  <testcase name="rejectsWrongVersion" classname="com.promptatlas.core.CatalogTest" time="0.0"/>
+  <testcase name="deduplicatesPages" classname="com.promptatlas.core.CatalogTest" time="0.001"/>
+  <testcase name="acceptsUnknownFieldsAndNullCategory" classname="com.promptatlas.core.CatalogTest" time="0.006"/>
+  <testcase name="preservesEntirePrompt" classname="com.promptatlas.core.CatalogTest" time="0.006"/>
+  <testcase name="searchesTurkishAndCombinesFilters" classname="com.promptatlas.core.CatalogTest" time="0.001"/>
+  <testcase name="rejectsHtmlAndWrongContract" classname="com.promptatlas.core.CatalogTest" time="0.004"/>
+  <testcase name="separatesFavoritesByServer" classname="com.promptatlas.core.CatalogTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

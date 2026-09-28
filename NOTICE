@@ -1,0 +1,21 @@
+Prompt Atlas Android client and mobile API additions
+Copyright 2026 Prompt Atlas contributors. Apache License 2.0.
+
+Interoperates with Open Prompts by rudy2steiner and contributors:
+https://github.com/rudy2steiner/open-prompts
+Upstream revision: 91c6b951e08d3033abe06f6b130e914e2178d0b9
+Upstream source is downloaded separately by backend/setup.py.
+
+Gradle Wrapper: Gradle Inc. and contributors, Apache-2.0.
+AndroidX, Kotlin, OkHttp, Coil and kotlinx.serialization retain their upstream licenses.
+Bundled prompts and procedural illustrations are original project examples, not AI-generated output.
+Third-party prompt/image collections are not bundled.
+
+Prompt Atlas 0.2.0 includes attributed visual prompt collections:
+Open Prompts — Apache-2.0 repository; community attribution retained.
+GPT Image 2 Hub — Copyright (c) 2026 ChaosRealmsAI; MIT repository.
+Awesome GPT-4o — Images copyright (c) 2025 Jamez Bondos; per-case CC-BY-4.0.
+Original prompt-author credits and source links are retained per entry.
+Previews were resized and WebP compressed. See catalog/licenses and
+catalog/attribution for license texts and notices; these are also bundled
+in the Android assets where applicable.
